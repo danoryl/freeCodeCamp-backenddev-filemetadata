@@ -1,3 +1,5 @@
 # File Metadata Microservice
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+My solution to the freeCodeCamp File Metadata Microservice project challenge. More info at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+
+This microservice uses multer to extract some metadata from an uploaded file.
